@@ -36,7 +36,7 @@
 	
 <plugin>
   <groupId>org.sonarsource.scanner.maven</groupId> 
-  <artefactId>sonar-maven-plugin</artefactId>
+  <artifactId>sonar-maven-plugin</artifactId>
 
 <version>2.3</version>
 </plugin>
