@@ -33,6 +33,14 @@
 </formats>
 </configuration>
 </plugin>
+	
+<plugin>
+  <groupId> org.sonarsource.scanner.maven </ groupId> 
+  <artefactId> sonar-maven-plugin </ artefactId>
+
+<version> 2.3 </ version>
+</ plugin>
+	
 </plugins>
 </build>
 	
